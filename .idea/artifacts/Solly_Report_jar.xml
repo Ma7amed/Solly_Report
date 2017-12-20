@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Solly_Report:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solly_Report_jar</output-path>
+    <root id="archive" name="Solly_Report.jar">
+      <element id="module-output" name="Solly_Report" />
+      <element id="extracted-dir" path="D:/Java/poi.apache.org/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/JDBC/Oracle 11g R2/ojdbc6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/poi.apache.org/poi-bin-3.16-20170419/poi-3.16/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Java/poi.apache.org/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

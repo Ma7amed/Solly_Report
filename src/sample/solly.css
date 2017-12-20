@@ -1,0 +1,170 @@
+
+.region {
+-fx-background-color: #FFFFFF;
+}
+
+.pane {
+-fx-background-color: #FFFFFF;
+}
+
+
+
+
+.queryBtn {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #26AFF4;
+}
+
+.queryBtn:hover {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #D3D3D3;
+}
+
+
+.queryBtnBlue {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #2196F3;
+}
+
+.loginBtnBlue {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #26AFF4;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.loginBtnBlue:hover {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #A9A9A9;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+.loginField {
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;}
+
+.queryBtnRed {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #F44336;
+}
+
+.saveBtn {
+    -fx-font-size: 12px;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-background-color: #f44336;
+}
+
+
+
+
+
+
+
+
+
+
+
+.combo-box-base {
+-fx-color: #FFFFFF;
+-fx-border-color: #2BB5EB;
+}
+
+
+
+.combo-box-base .arrow {
+-fx-border-color: #2BB5EB;
+}
+
+
+
+.combo-box-base .arrow-button {
+-fx-background-color: #FFFFFF;
+-fx-border-color: #2BB5EB;
+-fx-border-insets: 1px;
+-fx-border-width: 0px 0px 0px 1px;
+
+}
+
+
+.combo-box .text-input {
+-fx-border-color: #2BB5EB;
+}
+
+
+
+
+
+
+.combo-box{
+-fx-background-color: #FFFFFF;
+}
+
+.column-header {
+-fx-background-color: #DFF3FE;
+}
+
+
+.tab-header-background
+{
+    -fx-text-fill: #FFFFFF;
+    -fx-background-color: #EEEEEE;
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: #26AFF4;
+    -fx-text-fill: #FFFFFF;
+     -fx-font-weight: bold;
+}
+
+.tab-pane .tab
+{
+    -fx-background-color: #FFFFFF;
+
+}
+
+/*
+#DFF3F8
+*/
+.tab-pane .tab:selected .tab-label
+{
+    -fx-text-fill: #DFF3F8;
+}
+
+
+.tab-pane .tab:unselected .tab-label
+{
+    -fx-text-fill: #FFFFFF;
+}
+
+
+
+
+.tab-pane .tab .tab-label
+{
+    -fx-text-fill: #A9A9A9;
+}
+
+
+
+
+
+
+
+
+
+
