@@ -13,7 +13,7 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("main_page.fxml"));
-        primaryStage.setTitle("Work Load Calculator");
+        primaryStage.setTitle("TT&WO Detail Query Tool");
         primaryStage.setScene(new Scene(root));
         Image applicationIcon = new Image(getClass().getResourceAsStream("images/analytics.png"));
         primaryStage.getIcons().add(applicationIcon);
