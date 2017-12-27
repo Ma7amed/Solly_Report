@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jconn4">
     <CLASSES>
-      <root url="jar://D:/EMS/U2000_TX/client/engineering/conf/launch/client/org.eclipse.osgi/bundles/26/1/.cp/lib/jconn4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jconn4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
